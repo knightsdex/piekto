@@ -11,7 +11,7 @@ body {
   color: white;
   position: relative;
   overflow-x: hidden;
-  background: url("images/bg.gif") no-repeat center center fixed;
+  background: url("../images/bg.gif") no-repeat center center fixed;
   background-size: cover;
 }
 
